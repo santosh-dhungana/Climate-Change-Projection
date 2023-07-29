@@ -1,6 +1,6 @@
 # Cliamte-Change-Projection
 
-These scripts houses codes to linearly bias-correct temperature of the Tonlesap Basin in Cambodia. It directly processess the netcdf file to produce bias corrected CMIP6 climate models. ERA-5 temperature data set is used as reference dataset. Prior to bias correction, GCM models were spatially regridded to ERA-5 dataset spatial resolution.
+These scripts houses codes to linearly bias-correct precipitation and temperature of the Tonlesap Basin in Cambodia. It directly processess the netcdf file to produce bias corrected CMIP6 climate models. ERA-5 temperature data set is used as reference dataset. Prior to bias correction, GCM models were spatially regridded to ERA-5 dataset spatial resolution.
 
 <hr>
 
